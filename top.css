@@ -1,0 +1,162 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading{
+    background-color: rgb(155, 24, 24);
+    color: aliceblue;
+}
+
+.station{
+       color: aliceblue;
+       text-decoration: none;
+       font-size: 35px;
+}
+
+.atob{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 35px;
+ 
+}
+.Fare{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 35px;
+ 
+}
+.link{
+
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.buy{
+   color: antiquewhite;
+   text-decoration: none;
+   font-size: 20px;
+
+
+
+}
+
+.lost{
+    color: antiquewhite;
+     
+    text-decoration: none;
+    font-size: 20px
+ 
+ }
+
+ .ticket{
+    display: flex;
+    justify-content: space-around;
+    background-color: blue;
+ }
+
+ .search{
+    width: 100%;
+    font-size: 20px;
+ }
+
+ .selection{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    
+
+
+ }
+
+ .all{
+
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 28px;
+    
+
+ }
+
+ .w{
+
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 28px;
+
+
+ }
+ .c{
+
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 28px;
+    
+
+ }
+
+ .h{
+
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 28px;
+    
+
+ }
+
+ .t{
+
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 28px;
+    
+
+ }
+ .u{
+
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 28px;
+    
+
+ }
+
+ .a{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 18px;
+ }
+
+ .b{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 18px;
+ }
+
+ .d{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 18px;
+ }
+
+ .e{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 18px;
+ }
+ .f{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 18px;
+ }
+ .i{
+    color: antiquewhite;
+    text-decoration: none;
+    font-size: 18px;
+ }
+ 
+
+ 

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Train </title>
+  <style>
+    body {
+      background: #111;
+      color: white;
+      font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      padding: 20px;
+    }
+    .timeline {
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      position: relative;
+      margin-left: 20px;
+      padding-left: 20px;
+      border-left: 2px solid white; 
+    }
+    .station {
+      position: relative;
+      margin-bottom: 30px;
+    }
+    .station::before {
+      content: '';
+      width: 10px;
+      height: 10px;
+      background-color: white;
+      border-radius: 50%;
+      position: absolute;
+      left: -26px; 
+      top: 3px;
+    
+    }
+    .time {
+      color: #dfe3df;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="timeline">
+    <div  class="station" style="color: rgb(20, 241, 20);"><span class="time" style="color: rgb(20, 241, 20);">03:35</span> KASARA</div>
+    <div class="station"><span class="time">03:46</span> UMBERMALI</div>
+    <div class="station"><span class="time">03:52</span> KHARDI</div>
+    <div class="station"><span class="time">03:57</span> THANSIT</div>
+    <div class="station"><span class="time">04:02</span> ATGAON</div>
+    <div class="station"style="color: rgb(20, 241, 20);"><span class="time"style="color: rgb(20, 241, 20);">04:12</span> ASANGAON</div>
+    <div class="station"><span class="time">04:18</span> VASIND</div>
+    <div class="station"style="color: rgb(20, 241, 20);" ><span class="time" style="color:  rgb(20, 241, 20);">04:25</span> TITWALA</div>
+    <div class="station"><span class="time">04:25</span> AMBIVALI</div>
+    <div class="station"><span class="time">04:25</span> SHAHAD</div>
+    <div class="station" style="color: rgb(20, 241, 20);"><span class="time" style="color: rgb(20, 241, 20);">04:25</span> KALYAN</div>
+    <div class="station"><span class="time">04:25</span> THAKURLI</div>
+    <div class="station" style="color: rgb(20, 241, 20);"><span class="time" style="color: rgb(20, 241, 20);">04:25</span> DOMBIVLI</div>
+    <div class="station"><span class="time">04:25</span> KOPAR</div>
+    <div class="station"><span class="time">04:25</span> DIVA JN</div>
+    <div class="station"><span class="time">04:25</span> MUMBRA</div>
+    <div class="station"><span class="time">04:25</span> KALWA</div>
+    <div class="station" style="color: rgb(20, 241, 20);"><span class="time" style="color: rgb(20, 241, 20);">04:25</span> THANE</div>
+
+
+  </div>
+
+</body>
+</html>

@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.detail{
+   background-color: black;
+   color: aliceblue;
+   font-size: 40px;
+}
+.Aman{
+    background-color: rgb(31, 30, 30);
+    color: aliceblue;
+   font-size: 40px;
+
+    
+ }
+ .Ambernath{
+    background-color: black;
+    color: aliceblue;
+   font-size: 40px;
+
+ }
+
+ .Aman{
+    background-color: rgb(31, 30, 30);
+    color: aliceblue;
+   font-size: 40px;
+
+    
+ }
+ .Ambernath{
+    background-color: black;
+    color: aliceblue;
+   font-size: 40px;
+
+ }
+
+ .Destination{
+   text-decoration: none;
+   color: aliceblue;
+   
+ }
+
+ .th{
+   text-decoration: none;
+   color: aliceblue;
+ }
+
+ .vas{
+   text-decoration: none;
+   color: aliceblue;
+ }
+
+ .map2{
+   text-decoration: none;
+   color: aliceblue;
+ }
+
+ .map{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 100;
+ }
+ .map1{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  box-shadow: 0 4px 8px rgba(0,0,0, 0.2);
+ }

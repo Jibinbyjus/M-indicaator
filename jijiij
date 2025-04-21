@@ -1,0 +1,14 @@
+  <a href="frameset.html" ><img class="icon1" src="train (1).png"></a>
+   <a href=""><img class="icon2" src="train.png"></a>
+   <img class="icon3" src="172577_bus_icon.png" >
+   <img class="icon4" src="">
+   <img class="icon5" src="taxi.png">
+   <img class="icon6" src="ship.png">
+   <img class="icon7" src="8726015_metro_icon.png">
+   <img class="icon8" src="653285_globe_earth_global_location_map_icon.png">
+   <img class="icon8" src="326654_help_icon.png">
+
+   <nav>
+    <h6 class="title">m-indicator</h6>
+    <h3 class="header">Mumbai</h3>
+   </nav>
